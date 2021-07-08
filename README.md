@@ -1,4 +1,5 @@
 # Object-Detection-and-Optical-Character-Recognition-OCR
+AUTHOR - DEVELOPED BY: **_AKSHAY SRIVATS VIJAYARAGHAVAN_**
 Implement an object detector which identifies the classes of the objects in an image or video. OR 
 ● Character detector which extracts printed or handwritten text from an image or video.
 ● Below resources are just for references you can use any library/approach to achieve the goal.
