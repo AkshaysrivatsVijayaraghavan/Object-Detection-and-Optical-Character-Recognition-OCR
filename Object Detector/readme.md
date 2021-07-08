@@ -1,3 +1,4 @@
+AUTHOR - DEVELOPED BY: **_AKSHAY SRIVATS VIJAYARAGHAVAN_**
 # object-detection using iot and cv
 Object detection in images
 ## packages
